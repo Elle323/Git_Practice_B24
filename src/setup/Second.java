@@ -5,5 +5,7 @@ public class Second {
         System.out.println("Something");
 
         System.out.println("Added more lines");
+
+        System.out.println("Third commit");
     }
 }
